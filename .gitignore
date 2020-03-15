@@ -7,3 +7,5 @@ go-cli/src/go.opencensus.io
 go-cli/src/golang.org
 go-cli/src/google.golang.org
 python-2.7.0 
+.DS_Store
+*.html
