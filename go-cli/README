@@ -1,0 +1,10 @@
+# Prepare development environment
+source ./createAndActivateGoWorkSpace.sh
+
+# Install dependencies
+go get -v google.golang.org/api/blogger/v3
+go get -v golang.org/x/oauth2/google
+
+# Write code
+mkdir src/blogger
+touch src/blogger/bloggerCli.go

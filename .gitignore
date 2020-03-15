@@ -1,0 +1,9 @@
+OAuth2.0_secret.json
+go-cli/bin
+go-cli/pkg
+go-cli/src/cloud.google.com
+go-cli/src/github.com
+go-cli/src/go.opencensus.io
+go-cli/src/golang.org
+go-cli/src/google.golang.org
+python-2.7.0 
